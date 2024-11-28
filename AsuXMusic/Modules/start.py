@@ -81,9 +81,6 @@ async def start(_, message: Message):
                     ),
                 ],
                 [
-                    InlineKeyboardButton(
-                        text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁",
-                        url="https://github.com/Abishnoi69/AsuXMusic",
                     )
                 ],
             ]
